@@ -23,6 +23,6 @@
 <id>apache-tomcat</id>
 <username>admin</username>
 <password>admin</password>
+</plugin>
 </plugins>
-<plugin>
 </project>
