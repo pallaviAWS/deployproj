@@ -24,12 +24,11 @@
 <username>admin</username>
 <password>admin</password>
    <version>2.2</version>
-                <configuration>
-				<url>http://localhost:8080/manager/text</url>
-                    <server>tomcat-development-server</server>
-                   
-                    <path>/petclinic</path>
-                </configuration>
+ <configuration>
+<url>http://localhost:8080/manager/text</url>
+ <server>tomcat-development-server</server>
+ <path>/petclinic</path>
+ </configuration>
 </plugin>
 </plugins>
 </project>
