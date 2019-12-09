@@ -27,7 +27,7 @@
       <server>apache-tomcat</server>
      <username>admin</username>
       <password>admin</password>
-    <path>/deployproj</path>
+    <path>/deployprojapp</path>
     </configuration>
     </plugin>
    </plugins>
